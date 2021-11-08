@@ -1,10 +1,7 @@
 # SimpleDrawingApp
-
+![screenshot](/screenshot.webp)
 # Description
 It does simply what its name telling. You can draw and save your sketches
-
-## Screenshots
-![screenshot](/screenshot.webp)
 
 ## Built With
 - Swift
